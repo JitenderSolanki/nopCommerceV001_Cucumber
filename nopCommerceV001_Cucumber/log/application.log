@@ -1,0 +1,128 @@
+2019-12-27 18:17:08,755 [main] INFO nopComemrce - ******** Launching browser*********
+2019-12-27 18:17:08,784 [main] INFO nopComemrce - ******** Opening URL*********
+2019-12-27 18:17:13,570 [main] INFO nopComemrce - ******** Providing login details*********
+2019-12-27 18:17:13,972 [main] INFO nopComemrce - ******** started login*********
+2019-12-27 18:17:35,373 [main] INFO nopComemrce - ********Adding new customer*********
+2019-12-27 18:17:35,373 [main] INFO nopComemrce - ********Proving customer details*********
+2019-12-27 18:17:42,832 [main] INFO nopComemrce - ********Saving customer data*********
+2019-12-27 18:17:47,226 [main] INFO nopComemrce - ********closing browser********
+2019-12-27 18:17:52,879 [main] INFO nopComemrce - ******** Launching browser*********
+2019-12-27 18:17:52,887 [main] INFO nopComemrce - ******** Opening URL*********
+2019-12-27 18:17:58,055 [main] INFO nopComemrce - ******** Providing login details*********
+2019-12-27 18:17:58,358 [main] INFO nopComemrce - ******** started login*********
+2019-12-27 18:18:23,565 [main] INFO nopComemrce - ********Searching customer by email id*********
+2019-12-27 18:18:27,274 [main] INFO nopComemrce - ********closing browser********
+2019-12-27 18:18:32,833 [main] INFO nopComemrce - ******** Launching browser*********
+2019-12-27 18:18:32,851 [main] INFO nopComemrce - ******** Opening URL*********
+2019-12-27 18:18:38,852 [main] INFO nopComemrce - ******** Providing login details*********
+2019-12-27 18:18:39,195 [main] INFO nopComemrce - ******** started login*********
+2019-12-27 18:19:06,272 [main] INFO nopComemrce - ********Searching customer by Name*********
+2019-12-27 18:19:10,007 [main] INFO nopComemrce - ********closing browser********
+2019-12-27 18:19:15,535 [main] INFO nopComemrce - ******** Launching browser*********
+2019-12-27 18:19:15,535 [main] INFO nopComemrce - ******** Opening URL*********
+2019-12-27 18:19:20,227 [main] INFO nopComemrce - ******** Providing login details*********
+2019-12-27 18:19:20,541 [main] INFO nopComemrce - ******** started login*********
+2019-12-27 18:19:32,628 [main] INFO nopComemrce - ******** Login Passed*********
+2019-12-27 18:19:35,642 [main] INFO nopComemrce - ******** Click on logout link*********
+2019-12-27 18:19:40,717 [main] INFO nopComemrce - ******** Login Passed*********
+2019-12-27 18:19:43,748 [main] INFO nopComemrce - ********closing browser********
+2019-12-27 18:19:49,271 [main] INFO nopComemrce - ******** Launching browser*********
+2019-12-27 18:19:49,271 [main] INFO nopComemrce - ******** Opening URL*********
+2019-12-27 18:19:53,811 [main] INFO nopComemrce - ******** Providing login details*********
+2019-12-27 18:19:54,137 [main] INFO nopComemrce - ******** started login*********
+2019-12-27 18:20:04,662 [main] INFO nopComemrce - ******** Login Passed*********
+2019-12-27 18:20:07,671 [main] INFO nopComemrce - ******** Click on logout link*********
+2019-12-27 18:20:12,825 [main] INFO nopComemrce - ******** Login Passed*********
+2019-12-27 18:20:15,845 [main] INFO nopComemrce - ********closing browser********
+2019-12-27 18:20:21,405 [main] INFO nopComemrce - ******** Launching browser*********
+2019-12-27 18:20:21,405 [main] INFO nopComemrce - ******** Opening URL*********
+2019-12-27 18:20:25,416 [main] INFO nopComemrce - ******** Providing login details*********
+2019-12-27 18:20:25,774 [main] INFO nopComemrce - ******** started login*********
+2019-12-27 18:20:35,669 [main] INFO nopComemrce - ******** Login Passed*********
+2019-12-27 18:20:38,694 [main] INFO nopComemrce - ******** Click on logout link*********
+2019-12-27 18:20:43,882 [main] INFO nopComemrce - ******** Login Passed*********
+2019-12-27 18:20:46,902 [main] INFO nopComemrce - ********closing browser********
+2019-12-27 18:24:05,296 [main] INFO nopComemrce - ******** Launching browser*********
+2019-12-27 18:24:05,327 [main] INFO nopComemrce - ******** Opening URL*********
+2019-12-27 18:24:10,591 [main] INFO nopComemrce - ******** Providing login details*********
+2019-12-27 18:24:11,012 [main] INFO nopComemrce - ******** started login*********
+2019-12-27 18:24:33,789 [main] INFO nopComemrce - ********Adding new customer*********
+2019-12-27 18:24:33,790 [main] INFO nopComemrce - ********Proving customer details*********
+2019-12-27 18:24:41,215 [main] INFO nopComemrce - ********Saving customer data*********
+2019-12-27 18:24:46,057 [main] INFO nopComemrce - ********closing browser********
+2019-12-27 18:24:51,526 [main] INFO nopComemrce - ******** Launching browser*********
+2019-12-27 18:24:51,527 [main] INFO nopComemrce - ******** Opening URL*********
+2019-12-27 18:24:57,325 [main] INFO nopComemrce - ******** Providing login details*********
+2019-12-27 18:24:57,611 [main] INFO nopComemrce - ******** started login*********
+2019-12-27 18:25:14,638 [main] INFO nopComemrce - ********Searching customer by email id*********
+2019-12-27 18:25:18,346 [main] INFO nopComemrce - ********closing browser********
+2019-12-27 18:25:23,949 [main] INFO nopComemrce - ******** Launching browser*********
+2019-12-27 18:25:23,952 [main] INFO nopComemrce - ******** Opening URL*********
+2019-12-27 18:25:28,731 [main] INFO nopComemrce - ******** Providing login details*********
+2019-12-27 18:25:29,040 [main] INFO nopComemrce - ******** started login*********
+2019-12-27 18:25:47,350 [main] INFO nopComemrce - ********Searching customer by Name*********
+2019-12-27 18:25:51,044 [main] INFO nopComemrce - ********closing browser********
+2019-12-27 18:25:56,535 [main] INFO nopComemrce - ******** Launching browser*********
+2019-12-27 18:25:56,537 [main] INFO nopComemrce - ******** Opening URL*********
+2019-12-27 18:26:01,040 [main] INFO nopComemrce - ******** Providing login details*********
+2019-12-27 18:26:01,346 [main] INFO nopComemrce - ******** started login*********
+2019-12-27 18:26:13,268 [main] INFO nopComemrce - ******** Login Passed*********
+2019-12-27 18:26:16,280 [main] INFO nopComemrce - ******** Click on logout link*********
+2019-12-27 18:26:21,536 [main] INFO nopComemrce - ******** Login Passed*********
+2019-12-27 18:26:24,548 [main] INFO nopComemrce - ********closing browser********
+2019-12-27 18:26:30,209 [main] INFO nopComemrce - ******** Launching browser*********
+2019-12-27 18:26:30,215 [main] INFO nopComemrce - ******** Opening URL*********
+2019-12-27 18:26:35,249 [main] INFO nopComemrce - ******** Providing login details*********
+2019-12-27 18:26:35,572 [main] INFO nopComemrce - ******** started login*********
+2019-12-27 18:26:44,310 [main] INFO nopComemrce - ******** Login Passed*********
+2019-12-27 18:26:47,319 [main] INFO nopComemrce - ******** Click on logout link*********
+2019-12-27 18:26:53,710 [main] INFO nopComemrce - ******** Login Passed*********
+2019-12-27 18:26:56,733 [main] INFO nopComemrce - ********closing browser********
+2019-12-27 18:27:02,313 [main] INFO nopComemrce - ******** Launching browser*********
+2019-12-27 18:27:02,314 [main] INFO nopComemrce - ******** Opening URL*********
+2019-12-27 18:27:06,607 [main] INFO nopComemrce - ******** Providing login details*********
+2019-12-27 18:27:07,011 [main] INFO nopComemrce - ******** started login*********
+2019-12-27 18:27:12,829 [main] INFO nopComemrce - ******** Login Filed*********
+2019-12-27 18:30:42,463 [main] INFO nopComemrce - ******** Launching browser*********
+2019-12-27 18:30:42,494 [main] INFO nopComemrce - ******** Opening URL*********
+2019-12-27 18:31:15,162 [main] INFO nopComemrce - ******** Launching browser*********
+2019-12-27 18:31:15,209 [main] INFO nopComemrce - ******** Opening URL*********
+2019-12-27 18:31:20,291 [main] INFO nopComemrce - ******** Providing login details*********
+2019-12-27 18:31:20,433 [main] INFO nopComemrce - ******** started login*********
+2019-12-27 18:31:42,678 [main] INFO nopComemrce - ********Adding new customer*********
+2019-12-27 18:31:42,678 [main] INFO nopComemrce - ********Proving customer details*********
+2019-12-27 18:31:50,240 [main] INFO nopComemrce - ********Saving customer data*********
+2019-12-27 18:31:55,556 [main] INFO nopComemrce - ********closing browser********
+2019-12-27 18:32:04,279 [main] INFO nopComemrce - ******** Launching browser*********
+2019-12-27 18:32:04,279 [main] INFO nopComemrce - ******** Opening URL*********
+2019-12-27 18:32:08,867 [main] INFO nopComemrce - ******** Providing login details*********
+2019-12-27 18:32:09,000 [main] INFO nopComemrce - ******** started login*********
+2019-12-27 18:32:26,202 [main] INFO nopComemrce - ********Searching customer by email id*********
+2019-12-27 18:32:29,783 [main] INFO nopComemrce - ********closing browser********
+2019-12-27 18:32:39,241 [main] INFO nopComemrce - ******** Launching browser*********
+2019-12-27 18:32:39,241 [main] INFO nopComemrce - ******** Opening URL*********
+2019-12-27 18:32:44,998 [main] INFO nopComemrce - ******** Providing login details*********
+2019-12-27 18:32:45,132 [main] INFO nopComemrce - ******** started login*********
+2019-12-27 18:33:01,219 [main] INFO nopComemrce - ********Searching customer by Name*********
+2019-12-27 18:33:04,917 [main] INFO nopComemrce - ********closing browser********
+2019-12-27 18:33:14,245 [main] INFO nopComemrce - ******** Launching browser*********
+2019-12-27 18:33:14,245 [main] INFO nopComemrce - ******** Opening URL*********
+2019-12-27 18:33:19,016 [main] INFO nopComemrce - ******** Providing login details*********
+2019-12-27 18:33:19,161 [main] INFO nopComemrce - ******** started login*********
+2019-12-27 18:33:26,680 [main] INFO nopComemrce - ******** Login Passed*********
+2019-12-27 18:33:29,680 [main] INFO nopComemrce - ******** Click on logout link*********
+2019-12-27 18:33:35,884 [main] INFO nopComemrce - ******** Login Passed*********
+2019-12-27 18:33:38,885 [main] INFO nopComemrce - ********closing browser********
+2019-12-27 18:33:48,011 [main] INFO nopComemrce - ******** Launching browser*********
+2019-12-27 18:33:48,011 [main] INFO nopComemrce - ******** Opening URL*********
+2019-12-27 18:33:52,934 [main] INFO nopComemrce - ******** Providing login details*********
+2019-12-27 18:33:53,076 [main] INFO nopComemrce - ******** started login*********
+2019-12-27 18:34:07,806 [main] INFO nopComemrce - ******** Login Passed*********
+2019-12-27 18:34:10,811 [main] INFO nopComemrce - ******** Click on logout link*********
+2019-12-27 18:34:15,592 [main] INFO nopComemrce - ******** Login Passed*********
+2019-12-27 18:34:18,601 [main] INFO nopComemrce - ********closing browser********
+2019-12-27 18:34:27,409 [main] INFO nopComemrce - ******** Launching browser*********
+2019-12-27 18:34:27,409 [main] INFO nopComemrce - ******** Opening URL*********
+2019-12-27 18:34:32,811 [main] INFO nopComemrce - ******** Providing login details*********
+2019-12-27 18:34:32,943 [main] INFO nopComemrce - ******** started login*********
+2019-12-27 18:34:41,144 [main] INFO nopComemrce - ******** Login Filed*********
